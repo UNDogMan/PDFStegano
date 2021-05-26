@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFSteganoWPF", "PDFStenoWPF\PDFSteganoWPF.csproj", "{3210C69E-9581-453A-8913-BE2822A3892D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFSteganoLib", "PDFStenoLib\PDFSteganoLib.csproj", "{644AA833-11EE-422A-8FCE-851B1D8CCD61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3210C69E-9581-453A-8913-BE2822A3892D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3210C69E-9581-453A-8913-BE2822A3892D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3210C69E-9581-453A-8913-BE2822A3892D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3210C69E-9581-453A-8913-BE2822A3892D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644AA833-11EE-422A-8FCE-851B1D8CCD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644AA833-11EE-422A-8FCE-851B1D8CCD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644AA833-11EE-422A-8FCE-851B1D8CCD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644AA833-11EE-422A-8FCE-851B1D8CCD61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAF124C-7C2E-4D67-AD09-1928744EC5C5}
+	EndGlobalSection
+EndGlobal
